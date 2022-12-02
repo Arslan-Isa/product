@@ -1,0 +1,56 @@
+.cantainer {
+	max-width: 1110px;
+	margin: auto;
+}
+
+.start__content {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.start h2 {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 34px;
+	line-height: 51px;
+	color: #22343D;
+}
+
+.start h3 {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 26px;
+	color: #22343D;
+}
+
+.start__card h4 {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 40px;
+	color: #22343D;
+}
+
+.start__card {
+	border: 2px solid black;
+	transition: 1s;
+	border-radius: 10px;
+}
+
+.start__card p {
+	padding: 12px 89px 12px 24px;
+}
+
+.start__card h4 {
+	padding: 0px 30px 40px 24px;
+}
+
+.start__card:hover h4 {
+	color: #02897A;
+
+}
